@@ -1,0 +1,10 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "date-fns": "2.27.0",
+    "react": "16"
+  }
+}
