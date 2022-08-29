@@ -6,9 +6,7 @@ import { useEffect, useState } from 'react';
  *   currentPage: string;
  * }}
  */
-export function useCurrentPage(): {
-  currentPage: string;
-} {
+export function useCurrentPage(): string {
   const [currentPage, setCurrentPage] = useState('');
 
   useEffect(() => {

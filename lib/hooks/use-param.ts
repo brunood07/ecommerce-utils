@@ -7,9 +7,7 @@ import { useEffect, useState } from 'react';
  *   paramState: string
  * }}
  */
-export function useParams(param: string): {
-  paramState: string;
-} {
+export function useParams(param: string): string {
   const [paramState, setParamState] = useState('');
 
   useEffect(() => {
