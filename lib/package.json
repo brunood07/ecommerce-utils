@@ -4,7 +4,11 @@
   "main": "index.js",
   "license": "MIT",
   "peerDependencies": {
+    "@oracle-cx-commerce/dev": "^3.7.0",
     "date-fns": "2.27.0",
     "react": "16"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.17"
   }
 }
