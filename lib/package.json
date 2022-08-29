@@ -14,7 +14,7 @@
     "javascript",
     "node"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -22,7 +22,6 @@
     "build": "rollup -c"
   },
   "peerDependencies": {
-    "@oracle-cx-commerce/dev": "3.7.0",
     "date-fns": "^2.29.2",
     "react": "16"
   },
