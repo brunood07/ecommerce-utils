@@ -1,6 +1,6 @@
 ## Ecommerce Utils
 
-v1.0.1
+v1.0.0
 
 Utils for React Ecommerce Projects.
 
@@ -9,3 +9,5 @@ Authors: [Bruno Domingues](https://www.linkedin.com/in/bruno-domingues-da-silva/
 - helpers
 - hooks
 - constants
+
+See on [Github](https://github.com/brunood07/ecommerce-utils).
