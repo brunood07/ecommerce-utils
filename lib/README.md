@@ -1,6 +1,6 @@
 ## Ecommerce Utils
 
-v1.0.2
+v1.0.4
 
 Utils for React Ecommerce Projects.
 
@@ -9,5 +9,22 @@ Authors: [Bruno Domingues](https://www.linkedin.com/in/bruno-domingues-da-silva/
 - helpers
 - hooks
 - constants
+
+#### Update Version 1.0.4
+
+What's new?
+
+- createCookie
+- removeCookie
+- isValidCardNumber
+- hasLeastNCharacters
+
+The functions bellow is only for brazilian format
+
+- getAddressByCep
+- formatPrice
+- formatIE
+- formatCPF
+- formatCNPJ
 
 See on [Github](https://github.com/brunood07/ecommerce-utils).
