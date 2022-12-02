@@ -3,5 +3,5 @@ export declare function getFormattedCardNumber(text?: string, isSecret?: boolean
 export declare function getFormattedCVV(text?: string): string;
 export declare function getFormattedCardExpiration(text?: string): string;
 export declare function getCardLastForDigits(cardNumber: string): string;
-export declare function getFormattedBirthdayDate(text: string): string;
 export declare function getCardFlag(cardNumber: string): string | undefined;
+export declare function isValidCardNumber(cardNumber: string): boolean;
